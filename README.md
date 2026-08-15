@@ -140,15 +140,15 @@ Implemented monitoring using:
 
 # 📈 GitHub Stats
 
-* !\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=NARAMRUDULA2004
+* ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NARAMRUDULA2004
 
 \&show\_icons=true\&theme=github\_dark)
 
-* !\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NARAMRUDULA2004
+* ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NARAMRUDULA2004
 
 \&layout=compact\&theme=github\_dark)
 
-* !\[GitHub Streak](https://streak-stats.demolab.com?user=NARAMRUDULA2004
+* ![GitHub Streak](https://streak-stats.demolab.com?user=NARAMRUDULA2004
 
 \&theme=github-dark)
 
