@@ -26,21 +26,21 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 
 ### DevOps
 
-!\[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-!\[Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
-!\[Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=black)
 
-!\[Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 
-!\[Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)---
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)---
 
 ### Programming
 
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-!\[GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 \---
 
