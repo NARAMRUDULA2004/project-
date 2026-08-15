@@ -26,21 +26,21 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 
 ### DevOps
 
-\[!\[Docker](https://shields.io)](https://docker.com)
+!\[Docker](https://shields.io)(https://docker.com)
 
-\[!\[Kubernetes](https://shields.io)](https://kubernetes.io)
+!\[Kubernetes](https://shields.io)(https://kubernetes.io)
 
-\[!\[Jenkins](https://shields.io)](https://jenkins.io)
+!\[Jenkins](https://shields.io)(https://jenkins.io)
 
-\[!\[Terraform](https://shields.io)](https://terraform.io)
+!\[Terraform](https://shields.io)(https://terraform.io)
 
-\[!\[Ansible](https://shields.io)](https://ansible.com)
+!\[Ansible](https://shields.io)(https://ansible.com)
 
 ### Programming
 
-\[!\[Python](https://shields.io)](https://python.org)
+!\[Python](https://shields.io)(https://python.org)
 
-\[!\[GNU Bash](https://shields.io)](https://gnu.org) ---
+!\[GNU Bash](https://shields.io)(https://gnu.org) ---
 
 ### Version Control
 
