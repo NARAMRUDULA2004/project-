@@ -22,7 +22,7 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 
 ### Cloud
 
-!\[AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+!(https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
 ### DevOps
 
