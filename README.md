@@ -22,31 +22,33 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 
 ### Cloud
 
-\[!\[AWS](https://shields.io)](https://amazon.com)
+!\[AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 
 ### DevOps
 
-!\[Docker](https://shields.io)(https://docker.com)
+!\[Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-!\[Kubernetes](https://shields.io)(https://kubernetes.io)
+!\[Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
-!\[Jenkins](https://shields.io)(https://jenkins.io)
+!\[Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=black)
 
-!\[Terraform](https://shields.io)(https://terraform.io)
+!\[Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 
-!\[Ansible](https://shields.io)(https://ansible.com)
+!\[Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)---
 
 ### Programming
 
-!\[Python](https://shields.io)(https://python.org)
+!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-!\[GNU Bash](https://shields.io)(https://gnu.org) ---
+!\[GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+\---
 
 ### Version Control
 
-!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 \---
 
